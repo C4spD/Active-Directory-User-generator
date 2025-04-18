@@ -9,5 +9,6 @@ Herramienta creada en Python para generar cantidades masivas de combinaciones de
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/C4spD/Active-Directory-User-generator
+   ```
 
    
