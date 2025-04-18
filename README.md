@@ -15,11 +15,11 @@ Herramienta creada en Python para generar cantidades masivas de combinaciones de
    ```bash
    python3 userGen.py -h
 
-Options::
+   Options::
   -h, --help   show this help message and exit
   -f, --first_name
   -l, --last_name
 
-Use example:
-  usersAD.py -f "Jhon" -l "Richards" > users.txt
+   Use example:
+   usersAD.py -f "Jhon" -l "Richards" > users.txt
    ```
