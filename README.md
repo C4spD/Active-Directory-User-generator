@@ -20,6 +20,6 @@ Herramienta creada en Python para generar cantidades masivas de combinaciones de
   -f, --first_name
   -l, --last_name
 
-   Use example:
-   usersAD.py -f "Jhon" -l "Richards" > users.txt
+    Use example:
+    usersAD.py -f "Jhon" -l "Richards" > users.txt
    ```
