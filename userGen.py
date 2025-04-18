@@ -29,7 +29,7 @@ class CustomHelpFormatter(argparse.RawDescriptionHelpFormatter):
         return f"\033[92m{text}\033[0m"
 
 parser = argparse.ArgumentParser(
-    epilog='\033[93mUse example:\n  usersAD.py -f "Jhon" -l "Richards" > users.txt\033[0m',
+    epilog='\033[93mUse example:\n  userGen.py -f "Jhon" -l "Richards" > users.txt\033[0m',
     formatter_class=CustomHelpFormatter
 )
 
